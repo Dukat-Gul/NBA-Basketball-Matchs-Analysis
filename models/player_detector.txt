@@ -1,0 +1,16 @@
+Player Detector
+
+File:
+player_detector.pt
+
+Description:
+Player detection (bounding boxes)
+
+How to obtain:
+Train the model using a labeled dataset
+
+Steps:
+Prepare dataset → Train → Export as player_detector.pt
+
+Usage:
+Place in models/

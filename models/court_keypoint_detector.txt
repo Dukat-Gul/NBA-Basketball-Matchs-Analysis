@@ -1,0 +1,16 @@
+Court Keypoint Detector
+
+File:
+court_keypoint_detector.pt
+
+Description:
+Court keypoint detection
+
+How to obtain:
+Train the model using a labeled dataset
+
+Steps:
+Prepare dataset → Train → Export as court_keypoint_detector.pt
+
+Usage:
+Place in models/

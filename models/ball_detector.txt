@@ -1,0 +1,16 @@
+Ball Detector
+
+File:
+ball_detector.pt
+
+Description:
+Ball detection (bounding boxes)
+
+How to obtain:
+Train the model using a labeled dataset
+
+Steps:
+Prepare dataset → Train → Export as ball_detector.pt
+
+Usage:
+Place in models/
